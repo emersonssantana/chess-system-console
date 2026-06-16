@@ -27,4 +27,4 @@ This system was designed with strict separation of concerns, dividing the applic
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/emersonssantana/chess-system-console.git]
+git clone https://github.com/emersonssantana/chess-system-console.git
