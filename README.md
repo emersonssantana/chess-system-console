@@ -20,6 +20,11 @@ This system was designed with strict separation of concerns, dividing the applic
 * **Chess Layer (`chess`):** Implements specific chess rule overrides, game flow, and piece-specific behaviors.
 * **Object-Oriented Programming (OOP):** Extensive use of:
   * **Encapsulation & Access Modifiers:** Securing the state of the board and match.
-  * **Inheritance & Polimorphism:** A base `Piece` class with unique movement behaviors overridden by specific pieces (King, Rook, Pawn, etc.).
-* **Matrix Manipulation:** Dynamic handling of 2D arrays to update the $8 \times 8$ board efficiently after every move.
+  * **Inheritance & Polymorphism:** A base `Piece` class with unique movement behaviors overridden by specific pieces (King, Rook, Pawn, etc.).
+* **Matrix Manipulation:** Dynamic handling of 2D arrays to update the 8x8 board efficiently after every move.
 
+## 🔧 How to Run
+
+1. Clone this repository:
+```bash
+git clone [https://github.com/emersonssantana/chess-system-console.git](https://github.com/emersonssantana/chess-system-console.git)
