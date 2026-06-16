@@ -27,7 +27,7 @@ This system was designed with strict separation of concerns, dividing the applic
 
 1. Clone this repository:
 ```bash
-git clone git clone git@github.com:emersonssantana/chess-system-console.git
+git clone git@github.com:emersonssantana/chess-system-console.git
 ```
 2. Open the solution file `xadrez-console.sln` using **Visual Studio** or your preferred IDE.
 3. Build and Run the project (`F5` or `dotnet run` inside the project folder).
